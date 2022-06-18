@@ -1,2 +1,3 @@
-# namma-bengaluru
-Everything Bengaluru!
+# Namma Bengaluru
+
+> Everything Bengaluru!
